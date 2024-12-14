@@ -12087,6 +12087,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/log": {
+    "criteria": {
+      "has_item": "2024-12-14 23:24:45 +0000"
+    },
+    "done": true
+  },
   "emendatusenigmatica:recipes/emendatusenigmatica/ore_from_chunk_stonecutting/tin/byg_brimstone": {
     "criteria": {
       "has_the_recipe": "2024-12-14 23:18:43 +0000"

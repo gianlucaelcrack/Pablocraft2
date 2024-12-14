@@ -13676,3 +13676,9 @@ java.lang.NullPointerException: null
 [14Dec2024 23:22:12.314] [Server thread/DEBUG] [mixin/]: Mixing MixinChunkSerializer from architectury.mixins.json into net.minecraft.world.chunk.storage.ChunkSerializer
 [14Dec2024 23:22:12.314] [Server thread/DEBUG] [mixin/]: Mixing ChunkSerializerMixin from ferritecore.chunknbt.mixin.json into net.minecraft.world.chunk.storage.ChunkSerializer
 [14Dec2024 23:22:12.315] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$replacePostLoad$0(Lnet/minecraft/nbt/CompoundNBT;Lnet/minecraft/world/chunk/Chunk;)V to mdd1a98b$lambda$replacePostLoad$0$0 in ferritecore.chunknbt.mixin.json:ChunkSerializerMixin
+[14Dec2024 23:25:38.812] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lucasgian lost connection: Disconnected
+[14Dec2024 23:25:38.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian left the game
+[14Dec2024 23:27:02.065] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save capoqq
+[14Dec2024 23:27:02.092] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete capoqq
+[14Dec2024 23:32:02.063] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save capoqq
+[14Dec2024 23:32:02.083] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete capoqq

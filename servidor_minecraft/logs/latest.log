@@ -1824,3 +1824,5 @@ java.lang.NullPointerException: null
 [14Dec2024 23:18:45.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Minecraft Comes Alive]
 [14Dec2024 23:18:45.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5588ms or 111 ticks behind
 [14Dec2024 23:18:45.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Ice and Fire]
+[14Dec2024 23:25:38.812] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lucasgian lost connection: Disconnected
+[14Dec2024 23:25:38.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian left the game
