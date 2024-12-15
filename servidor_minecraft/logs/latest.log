@@ -1869,3 +1869,4 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [15Dec2024 01:33:13.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Minecraft Comes Alive]
 [15Dec2024 01:33:13.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
 [15Dec2024 01:33:13.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Ice and Fire]
+[15Dec2024 01:42:28.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Ice Bucket Challenge]
