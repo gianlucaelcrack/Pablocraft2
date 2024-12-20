@@ -1709,3 +1709,30 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 19:26:49.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> va
 [20Dec2024 19:26:51.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> mejor dicho que generador
 [20Dec2024 19:27:01.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> ni idea
+[20Dec2024 19:29:32.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Ashes 'n Bones]
+[20Dec2024 19:30:40.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Knowledge raises the soul]
+[20Dec2024 19:31:16.897] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 moved too quickly! -6.956503918804742,-2.0,-6.974544885736464
+[20Dec2024 19:34:37.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Ambush]
+[20Dec2024 19:34:50.356] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lucasgian lost connection: Disconnected
+[20Dec2024 19:34:50.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian left the game
+[20Dec2024 19:35:04.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> zzz
+[20Dec2024 19:35:10.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Sweet Dreams]
+[20Dec2024 19:36:27.374] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@135c3a91
+[20Dec2024 19:36:27.410] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: lucasgian[/100.119.138.58:52357] logged in with entity id 30834 at (-274.6927152152811, 63.0, -64.8485214680824)
+[20Dec2024 19:36:27.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian joined the game
+[20Dec2024 19:36:27.483] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('lucasgian') Connected! Syncing Supporters to Client Side!
+[20Dec2024 19:36:27.484] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('lucasgian')...
+[20Dec2024 19:36:42.556] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lucasgian lost connection: Timed out
+[20Dec2024 19:36:42.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian left the game
+[20Dec2024 19:37:11.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> h
+[20Dec2024 19:37:11.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> h
+[20Dec2024 19:37:14.110] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 lost connection: Timed out
+[20Dec2024 19:37:14.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 left the game
+[20Dec2024 19:37:14.174] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[20Dec2024 19:37:58.122] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3be17f1
+[20Dec2024 19:37:58.157] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: b3nja4[/100.122.166.3:53993] logged in with entity id 30865 at (11.489508890950619, 62.07219631831893, 373.0020327160069)
+[20Dec2024 19:37:58.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 joined the game
+[20Dec2024 19:37:58.210] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('b3nja4') Connected! Syncing Supporters to Client Side!
+[20Dec2024 19:37:58.210] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('b3nja4')...
+[20Dec2024 19:38:54.558] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AlanGomezP lost connection: Timed out
+[20Dec2024 19:38:54.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP left the game
