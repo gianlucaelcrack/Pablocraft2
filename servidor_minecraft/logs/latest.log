@@ -1637,3 +1637,37 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 19:07:26.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP was slain by Shark
 [20Dec2024 19:07:26.982] [Server thread/INFO] [tombstone/]: The player AlanGomezP has successfully been saved
 [20Dec2024 19:07:31.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> wtf se pueden montar
+[20Dec2024 19:09:25.915] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=47, z=-33} BlockPos{x=-260, y=46, z=-33}
+[20Dec2024 19:09:25.961] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=47, z=-33} BlockPos{x=-260, y=46, z=-33}
+[20Dec2024 19:10:04.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Amateur Archaeologist]
+[20Dec2024 19:10:04.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Diamonds!]
+[20Dec2024 19:10:10.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> alan
+[20Dec2024 19:10:21.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> ?
+[20Dec2024 19:10:25.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> cerca del spawn hay cultivos
+[20Dec2024 19:10:34.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> de?
+[20Dec2024 19:10:39.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> trigo
+[20Dec2024 19:10:45.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> uh nah
+[20Dec2024 19:12:14.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> porque hay items del terraria ;-;
+[20Dec2024 19:12:37.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> como cual
+[20Dec2024 19:12:45.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> muchos accesorios
+[20Dec2024 19:12:46.907] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 lost connection: Timed out
+[20Dec2024 19:12:46.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 left the game
+[20Dec2024 19:13:14.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> so
+[20Dec2024 19:13:15.924] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6cda605a
+[20Dec2024 19:13:15.961] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: b3nja4[/100.122.166.3:53905] logged in with entity id 28706 at (-176.83718031278974, 63.0, 249.12490026060027)
+[20Dec2024 19:13:15.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 joined the game
+[20Dec2024 19:13:15.993] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('b3nja4') Connected! Syncing Supporters to Client Side!
+[20Dec2024 19:13:15.994] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('b3nja4')...
+[20Dec2024 19:13:16.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> si
+[20Dec2024 19:13:19.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> el aritfascts
+[20Dec2024 19:13:57.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> ahhh
+[20Dec2024 19:14:28.711] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AlanGomezP lost connection: Disconnected
+[20Dec2024 19:14:28.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP left the game
+[20Dec2024 19:15:45.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> estoy viendo drowneds afuera del agua
+[20Dec2024 19:17:42.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Ashes 'n Bones]
+[20Dec2024 19:18:05.623] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7acee20f
+[20Dec2024 19:18:05.658] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AlanGomezP[/100.77.9.80:65195] logged in with entity id 29476 at (-302.30000001192093, 77.0, -37.30000001192093)
+[20Dec2024 19:18:05.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP joined the game
+[20Dec2024 19:18:05.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Mysterious Gift]
+[20Dec2024 19:18:05.695] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('AlanGomezP') Connected! Syncing Supporters to Client Side!
+[20Dec2024 19:18:05.695] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('AlanGomezP')...
