@@ -1241,3 +1241,55 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 17:56:17.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> fuck
 [20Dec2024 17:56:39.710] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AlanGomezP lost connection: Disconnected
 [20Dec2024 17:56:39.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP left the game
+[20Dec2024 17:58:08.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian was blown up by Creeper
+[20Dec2024 17:58:08.253] [Server thread/INFO] [tombstone/]: The player lucasgian has successfully been saved
+[20Dec2024 17:58:46.759] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ce17f66
+[20Dec2024 17:58:46.890] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AlanGomezP[/100.77.9.80:62893] logged in with entity id 5993 at (-304.6046610432392, 75.0, -33.69999998807907)
+[20Dec2024 17:58:46.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP joined the game
+[20Dec2024 17:58:46.960] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('AlanGomezP') Connected! Syncing Supporters to Client Side!
+[20Dec2024 17:58:46.961] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('AlanGomezP')...
+[20Dec2024 17:58:48.110] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AlanGomezP lost connection: Disconnected
+[20Dec2024 17:58:48.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP left the game
+[20Dec2024 17:59:58.883] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76ac4dd3
+[20Dec2024 17:59:58.957] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: b3nja4[/100.122.166.3:53748] logged in with entity id 6268 at (-296.3768100690305, 65.1212968405392, -177.60204631746467)
+[20Dec2024 17:59:58.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 joined the game
+[20Dec2024 17:59:59.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Mysterious Gift]
+[20Dec2024 17:59:59.045] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('b3nja4') Connected! Syncing Supporters to Client Side!
+[20Dec2024 17:59:59.045] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('b3nja4')...
+[20Dec2024 18:01:18.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> hola tata
+[20Dec2024 18:01:23.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> hol apibe
+[20Dec2024 18:01:28.435] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@568c5c6d
+[20Dec2024 18:01:28.490] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AlanGomezP[/100.77.9.80:63015] logged in with entity id 6418 at (-304.6046610432392, 75.0, -33.69999998807907)
+[20Dec2024 18:01:28.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP joined the game
+[20Dec2024 18:01:28.583] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('AlanGomezP') Connected! Syncing Supporters to Client Side!
+[20Dec2024 18:01:28.583] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('AlanGomezP')...
+[20Dec2024 18:01:32.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> oaaa
+[20Dec2024 18:01:33.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> el enano a vuelto
+[20Dec2024 18:02:53.397] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 moved too quickly! -4.726080501768536,1.1661092609382138,-8.861621115229639
+[20Dec2024 18:03:44.607] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 lost connection: Timed out
+[20Dec2024 18:03:44.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 left the game
+[20Dec2024 18:04:13.185] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5582e591
+[20Dec2024 18:04:13.274] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: b3nja4[/100.122.166.3:53758] logged in with entity id 6916 at (-347.564303489486, 63.0, -277.08976463998323)
+[20Dec2024 18:04:13.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 joined the game
+[20Dec2024 18:04:13.415] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('b3nja4') Connected! Syncing Supporters to Client Side!
+[20Dec2024 18:04:13.416] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('b3nja4')...
+[20Dec2024 18:04:58.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> este es el tema del verano
+[20Dec2024 18:05:04.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> que se te pega y nunca despega
+[20Dec2024 18:05:11.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> xd
+[20Dec2024 18:05:13.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> claro que te clavo la sombrilla
+[20Dec2024 18:05:20.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Your First Receptacle]
+[20Dec2024 18:05:20.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Where Is The Stone Pen?]
+[20Dec2024 18:05:20.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has reached the goal [Treasure from the Past]
+[20Dec2024 18:05:20.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has reached the goal [Gift Delivery]
+[20Dec2024 18:05:54.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> que triste que el unico regalo de naviad que voy a tener sea el del corail
+[20Dec2024 18:06:05.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> nooo
+[20Dec2024 18:06:07.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> yo sorpresivamente tengo regalo de navidad
+[20Dec2024 18:06:11.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> pero es por parte del novio de mi mama xd
+[20Dec2024 18:06:20.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> xd
+[20Dec2024 18:06:24.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> ya me llego el spoiler
+[20Dec2024 18:06:34.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> opa
+[20Dec2024 18:06:38.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> tira data
+[20Dec2024 18:06:46.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> es una interfaz de audio para conectar mi guitarra a la pc
+[20Dec2024 18:06:52.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> fua
+[20Dec2024 18:06:53.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> y de paso los auris y el micro para que suene todo god
+[20Dec2024 18:07:13.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> godines
