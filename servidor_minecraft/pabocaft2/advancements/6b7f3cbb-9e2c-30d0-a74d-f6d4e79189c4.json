@@ -1338,6 +1338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-20 18:37:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dolomite_bricks_wall_from_fancy_dolomite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:57 +0000"
@@ -1587,6 +1593,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-20 18:37:12 +0000"
     },
     "done": true
   },
@@ -2133,6 +2145,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-20 18:37:12 +0000"
     },
     "done": true
   },
@@ -5078,6 +5096,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/coal": {
+    "criteria": {
+      "has_item": "2024-12-20 18:37:19 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2024-12-20 04:48:56 +0000"
@@ -5609,6 +5633,12 @@
   "farmersdelight:recipes/farmersdelight/green_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/emendatusenigmatica/macerating/coal_dust": {
+    "criteria": {
+      "has_item": "2024-12-20 18:37:19 +0000"
     },
     "done": true
   },
@@ -8373,6 +8403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-20 18:37:12 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/misc/macerating/string": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:57 +0000"
@@ -9451,6 +9487,12 @@
   "projecte:recipes/projecte/mercurial_eye": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-20 18:37:47 +0000"
     },
     "done": true
   },
@@ -12744,6 +12786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-20 18:37:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_pulse_repeater": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:58 +0000"
@@ -13149,6 +13197,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_tiled_glass_pane": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-20 18:37:12 +0000"
     },
     "done": true
   },
@@ -13743,6 +13797,12 @@
   "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/earth": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:57 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/emendatusenigmatica/separating/sulfur_from_gunpowder": {
+    "criteria": {
+      "has_item": "2024-12-20 18:37:01 +0000"
     },
     "done": true
   },

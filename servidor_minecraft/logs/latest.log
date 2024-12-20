@@ -1383,3 +1383,24 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 18:36:21.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> no se
 [20Dec2024 18:37:12.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Stone Age]
 [20Dec2024 18:37:47.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Getting an Upgrade]
+[20Dec2024 18:41:37.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> alguien tiene cuero?
+[20Dec2024 18:41:42.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> nop
+[20Dec2024 18:41:54.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> tengo 2
+[20Dec2024 18:42:19.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> eh
+[20Dec2024 18:42:22.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> encontre algo rarisimo
+[20Dec2024 18:42:29.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> era como un creeper deforme que cuando lo vi hizo un ruido y desaparecio
+[20Dec2024 18:42:43.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> fua
+[20Dec2024 18:44:39.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> h
+[20Dec2024 18:44:46.406] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 lost connection: Timed out
+[20Dec2024 18:44:46.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 left the game
+[20Dec2024 18:45:29.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Where Is The Stone Pen?]
+[20Dec2024 18:45:29.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Acquire Hardware]
+[20Dec2024 18:45:48.623] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@30337da8
+[20Dec2024 18:45:48.661] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: b3nja4[/100.122.166.3:53852] logged in with entity id 24101 at (-296.21738539918954, 62.07294923067093, -65.77643713482051)
+[20Dec2024 18:45:48.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 joined the game
+[20Dec2024 18:45:48.700] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('b3nja4') Connected! Syncing Supporters to Client Side!
+[20Dec2024 18:45:48.700] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('b3nja4')...
+[20Dec2024 18:46:29.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Suit Up]
+[20Dec2024 18:46:29.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Isn't It Iron Pick]
+[20Dec2024 18:48:01.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> wacho me queda re grande el barci
+[20Dec2024 18:48:12.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> sjkasjkasjkas
