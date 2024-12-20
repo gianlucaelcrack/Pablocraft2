@@ -5740,6 +5740,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/emendatusenigmatica/macerating/coal_dust": {
+    "criteria": {
+      "has_item": "2024-12-20 18:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
@@ -13238,6 +13244,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 18:58:21 +0000"
     },
     "done": true
   },

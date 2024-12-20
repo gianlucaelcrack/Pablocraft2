@@ -1032,6 +1032,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-20 18:59:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
