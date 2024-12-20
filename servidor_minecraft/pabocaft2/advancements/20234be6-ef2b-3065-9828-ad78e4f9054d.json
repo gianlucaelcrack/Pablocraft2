@@ -516,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-20 05:39:21 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/neutron_reflector": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
@@ -1653,6 +1659,12 @@
   "farmersdelight:recipes/farmersdelight/tomato_crate": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:57 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-20 05:39:21 +0000"
     },
     "done": true
   },
@@ -3228,6 +3240,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 05:39:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:57 +0000"
@@ -3345,6 +3363,12 @@
   "create:recipes/create.palettes/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-20 05:39:21 +0000"
     },
     "done": true
   },
@@ -3915,6 +3939,12 @@
   "create:recipes/create.palettes/paved_granite_wall_from_paved_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:57 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/emendatusenigmatica/macerating/obsidian_dust": {
+    "criteria": {
+      "has_item": "2024-12-20 05:39:21 +0000"
     },
     "done": true
   },
@@ -9843,6 +9873,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-20 05:39:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
@@ -11533,6 +11569,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-20 05:39:21 +0000"
     },
     "done": true
   },
