@@ -1,0 +1,13 @@
+
+#General settings
+[general]
+	#Create a custom command (empty = no command)
+	commandName = ""
+	#Enable Chat Listener
+	chatListener = true
+	#Can players see the bubbles through blocks or not ( useful for server rp as example )
+	throughBlock = true
+	#Radius of the bubble sending to the players (packet)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	bubbleRange = 50.0
+

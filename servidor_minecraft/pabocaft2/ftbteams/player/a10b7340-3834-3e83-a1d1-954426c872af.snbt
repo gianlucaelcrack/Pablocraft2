@@ -1,0 +1,20 @@
+{
+	id: "a10b7340-3834-3e83-a1d1-954426c872af"
+	type: "player"
+	player_name: "patesihno"
+	ranks: {
+		a10b7340-3834-3e83-a1d1-954426c872af: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "patesihno"
+		"ftbteams:color": "#FF59A4"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

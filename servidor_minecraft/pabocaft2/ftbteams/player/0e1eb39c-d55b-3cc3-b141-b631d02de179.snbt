@@ -1,0 +1,20 @@
+{
+	id: "0e1eb39c-d55b-3cc3-b141-b631d02de179"
+	type: "player"
+	player_name: "b3nja4"
+	ranks: {
+		0e1eb39c-d55b-3cc3-b141-b631d02de179: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "b3nja4"
+		"ftbteams:color": "#59BBFF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

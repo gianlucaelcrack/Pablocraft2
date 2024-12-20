@@ -1,0 +1,20 @@
+{
+	id: "20234be6-ef2b-3065-9828-ad78e4f9054d"
+	type: "player"
+	player_name: "lucasgian"
+	ranks: {
+		20234be6-ef2b-3065-9828-ad78e4f9054d: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "lucasgian"
+		"ftbteams:color": "#FFA959"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
