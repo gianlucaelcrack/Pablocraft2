@@ -2592,6 +2592,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/emendatusenigmatica/macerating/charcoal_dust": {
+    "criteria": {
+      "has_item": "2024-12-20 17:51:11 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/light_gray_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
@@ -2835,6 +2841,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/pink_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-20 17:48:14 +0000"
     },
     "done": true
   },
@@ -5175,6 +5187,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/coal": {
+    "criteria": {
+      "has_item": "2024-12-20 17:51:11 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2024-12-19 17:32:56 +0000"
@@ -5784,6 +5802,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2024-12-20 17:48:44 +0000"
     },
     "done": true
   },
@@ -6510,6 +6534,12 @@
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2024-12-19 17:32:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-20 17:48:44 +0000"
     },
     "done": true
   },
@@ -10229,6 +10259,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2024-12-20 17:48:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:59 +0000"
@@ -11508,6 +11544,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/villager_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 17:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
@@ -11932,7 +11974,8 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-12-20 04:37:34 +0000",
       "minecraft:beach": "2024-12-20 04:37:22 +0000",
-      "minecraft:river": "2024-12-20 04:37:31 +0000"
+      "minecraft:river": "2024-12-20 04:37:31 +0000",
+      "minecraft:plains": "2024-12-20 17:44:44 +0000"
     },
     "done": false
   },

@@ -1219,3 +1219,25 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 17:40:52.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> ola
 [20Dec2024 17:40:58.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> ahi estan mis cosas
 [20Dec2024 17:47:03.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Unfriendly Cube]
+[20Dec2024 17:48:14.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Crops of the Wild]
+[20Dec2024 17:48:44.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Your First Receptacle]
+[20Dec2024 17:48:44.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Where Is The Stone Pen?]
+[20Dec2024 17:48:44.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has reached the goal [Treasure from the Past]
+[20Dec2024 17:48:44.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has reached the goal [Gift Delivery]
+[20Dec2024 17:51:38.705] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AlanGomezP lost connection: Disconnected
+[20Dec2024 17:51:38.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP left the game
+[20Dec2024 17:54:43.706] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Kamelija'/729, l='ServerLevel[pabocaft2]', x=-303.50, y=62.74, z=-331.77] died, message: 'Kamelija was slain by Zombie'
+[20Dec2024 17:54:51.956] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='Dilyana', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
+[20Dec2024 17:54:55.233] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18cb5d11
+[20Dec2024 17:54:55.305] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AlanGomezP[/100.77.9.80:62791] logged in with entity id 5122 at (-307.32707784088035, 75.0, -31.699999988079067)
+[20Dec2024 17:54:55.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP joined the game
+[20Dec2024 17:54:55.373] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('AlanGomezP') Connected! Syncing Supporters to Client Side!
+[20Dec2024 17:54:55.374] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('AlanGomezP')...
+[20Dec2024 17:55:24.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> wzz pls
+[20Dec2024 17:55:39.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> no tengo cama xd
+[20Dec2024 17:56:00.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> pero la pu
+[20Dec2024 17:56:04.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> veni al pueblo
+[20Dec2024 17:56:12.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> estoy en la loma del orto
+[20Dec2024 17:56:17.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> fuck
+[20Dec2024 17:56:39.710] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AlanGomezP lost connection: Disconnected
+[20Dec2024 17:56:39.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP left the game
