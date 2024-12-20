@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-20 04:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
@@ -756,6 +762,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-20 04:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:57 +0000"
@@ -1257,6 +1269,12 @@
   "create:recipes/create.base/crafting/appliances/diving_helmet": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/log": {
+    "criteria": {
+      "has_item": "2024-12-20 04:21:57 +0000"
     },
     "done": true
   },
@@ -3189,6 +3207,12 @@
   "ftbic:recipes/ftbic/shaped/component_heat_exchanger": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 04:23:37 +0000"
     },
     "done": true
   },
@@ -5659,6 +5683,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-20 04:23:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
@@ -5941,6 +5971,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 04:23:24 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_stairs_stonecutter": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
@@ -5994,6 +6030,12 @@
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-20 04:28:22 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/scoria_bricks_wall": {
     "criteria": {
@@ -7174,6 +7216,12 @@
   "tconstruct:recipes/tconstruct/world/world/wood/bloodshroom/fence": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/planks": {
+    "criteria": {
+      "has_item": "2024-12-20 04:23:48 +0000"
     },
     "done": true
   },
@@ -9093,6 +9141,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 04:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
@@ -9645,6 +9699,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/emendatusenigmatica/macerating/sawdust": {
+    "criteria": {
+      "has_item": "2024-12-20 04:23:48 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ev_solar_panel": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
@@ -9726,6 +9786,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/stick": {
+    "criteria": {
+      "has_item": "2024-12-20 04:28:00 +0000"
     },
     "done": true
   },
@@ -11680,6 +11746,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-20 04:28:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:57 +0000"
@@ -12213,6 +12285,12 @@
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-12-20 04:23:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
@@ -13141,6 +13219,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-20 04:28:00 +0000"
     },
     "done": true
   },

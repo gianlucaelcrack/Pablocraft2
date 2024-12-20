@@ -1260,6 +1260,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/log": {
+    "criteria": {
+      "has_item": "2024-12-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/scoria_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:57 +0000"
@@ -5994,6 +6000,12 @@
       "has_the_recipe": "2024-12-19 17:32:57 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-20 04:29:15 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/scoria_bricks_wall": {
     "criteria": {
@@ -11683,6 +11695,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-20 04:29:15 +0000"
     },
     "done": true
   },

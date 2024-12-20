@@ -995,3 +995,48 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 04:23:24.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Knowledge of Death]
 [20Dec2024 04:23:24.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Easter Food]
 [20Dec2024 04:23:37.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Knowledge raises the soul]
+[20Dec2024 04:26:40.418] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [comicsbubbleschat:comicsbubbleschat,fps_optimizer:fps_optimizer,sophisticatedbackpacks:channel,mca:main,cosmeticarmorreworked:main,creativecore:main,mekanism:mekanism,artifacts:main,bossominium:bossominium,ironchest:network,waystones:network] rejected their client side version number
+[20Dec2024 04:26:40.419] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Dec2024 04:26:40.449] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@77b12f4d[id=<null>,name=PM136,properties={},legacy=false] (/100.65.119.61:52269) lost connection: Connection closed - mismatched mod channel list
+[20Dec2024 04:26:43.433] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [comicsbubbleschat:comicsbubbleschat,fps_optimizer:fps_optimizer,sophisticatedbackpacks:channel,mca:main,cosmeticarmorreworked:main,creativecore:main,mekanism:mekanism,artifacts:main,bossominium:bossominium,ironchest:network,waystones:network] rejected their client side version number
+[20Dec2024 04:26:43.434] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Dec2024 04:26:43.443] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@49fc47bf[id=<null>,name=PM136,properties={},legacy=false] (/100.65.119.61:52270) lost connection: Connection closed - mismatched mod channel list
+[20Dec2024 04:26:48.429] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [comicsbubbleschat:comicsbubbleschat,fps_optimizer:fps_optimizer,sophisticatedbackpacks:channel,mca:main,cosmeticarmorreworked:main,creativecore:main,mekanism:mekanism,artifacts:main,bossominium:bossominium,ironchest:network,waystones:network] rejected their client side version number
+[20Dec2024 04:26:48.430] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Dec2024 04:26:48.442] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@7760b0f[id=<null>,name=PM136,properties={},legacy=false] (/100.65.119.61:52274) lost connection: Connection closed - mismatched mod channel list
+[20Dec2024 04:27:40.877] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-207, y=63, z=-166} BlockPos{x=-212, y=63, z=-161}
+[20Dec2024 04:27:40.882] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-207, y=63, z=-166} BlockPos{x=-212, y=63, z=-161}
+[20Dec2024 04:28:15.998] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-198, y=63, z=-182} BlockPos{x=-199, y=62, z=-182}
+[20Dec2024 04:28:16.836] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-201, y=63, z=-179} BlockPos{x=-200, y=62, z=-180}
+[20Dec2024 04:28:21.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> HOLA
+[20Dec2024 04:28:22.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [A Seedy Place]
+[20Dec2024 04:28:23.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> AHORA SI
+[20Dec2024 04:28:28.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> ESO ES PARA UN BOSS
+[20Dec2024 04:28:30.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patesihno has made the advancement [A Seedy Place]
+[20Dec2024 04:29:15.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [A Seedy Place]
+[20Dec2024 04:29:50.478] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-205, y=63, z=-181} BlockPos{x=-205, y=62, z=-182}
+[20Dec2024 04:29:50.798] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-204, y=63, z=-179} BlockPos{x=-204, y=62, z=-180}
+[20Dec2024 04:29:50.883] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-205, y=63, z=-179} BlockPos{x=-204, y=62, z=-179}
+[20Dec2024 04:29:50.945] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-205, y=63, z=-179} BlockPos{x=-204, y=62, z=-179}
+[20Dec2024 04:30:49.601] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-215, y=63, z=-182} BlockPos{x=-217, y=62, z=-181}
+[20Dec2024 04:30:49.848] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-212, y=63, z=-182} BlockPos{x=-212, y=62, z=-182}
+[20Dec2024 04:30:50.150] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-212, y=63, z=-179} BlockPos{x=-211, y=62, z=-180}
+[20Dec2024 04:31:41.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 was slain by patesihno
+[20Dec2024 04:31:41.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Your First Grave]
+[20Dec2024 04:31:41.666] [Server thread/INFO] [tombstone/]: The player b3nja4 has successfully been saved
+[20Dec2024 04:31:54.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> h
+[20Dec2024 04:32:33.804] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-221, y=63, z=-183} BlockPos{x=-221, y=62, z=-183}
+[20Dec2024 04:33:41.443] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6c37c780
+[20Dec2024 04:33:41.454] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: PM136[/100.65.119.61:53891] logged in with entity id 1403 at (-218.5, 63.0, -157.5)
+[20Dec2024 04:33:41.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PM136 joined the game
+[20Dec2024 04:33:41.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PM136 has made the advancement [Christmas]
+[20Dec2024 04:33:41.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PM136 has made the advancement [Easter Egg Searcher]
+[20Dec2024 04:33:41.719] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('PM136') Connected! Syncing Supporters to Client Side!
+[20Dec2024 04:33:41.720] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('PM136')...
+[20Dec2024 04:33:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PM136 has made the advancement [Minecraft Comes Alive]
+[20Dec2024 04:33:43.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[20Dec2024 04:33:43.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PM136 has made the advancement [Ice and Fire]
+[20Dec2024 04:34:05.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Stone Age]
+[20Dec2024 04:34:42.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Stone Age]
+[20Dec2024 04:34:43.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patesihno has made the advancement [Stone Age]
+[20Dec2024 04:35:02.969] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-202, y=61, z=-162} BlockPos{x=-211, y=63, z=-163}
