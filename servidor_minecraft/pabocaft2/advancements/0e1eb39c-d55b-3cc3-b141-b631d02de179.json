@@ -4216,7 +4216,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-20 06:03:25 +0000",
       "minecraft:spider": "2024-12-20 06:07:54 +0000",
-      "minecraft:zombie": "2024-12-20 18:14:05 +0000"
+      "minecraft:zombie": "2024-12-20 18:14:05 +0000",
+      "minecraft:drowned": "2024-12-20 19:15:56 +0000"
     },
     "done": false
   },
@@ -13162,6 +13163,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 19:17:42 +0000"
     },
     "done": true
   },

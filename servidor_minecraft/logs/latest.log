@@ -1671,3 +1671,41 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 19:18:05.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Mysterious Gift]
 [20Dec2024 19:18:05.695] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('AlanGomezP') Connected! Syncing Supporters to Client Side!
 [20Dec2024 19:18:05.695] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('AlanGomezP')...
+[20Dec2024 19:18:50.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> estan fuertes los crashes
+[20Dec2024 19:18:55.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> si
+[20Dec2024 19:19:01.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> igual esporque no tengo ni un driver
+[20Dec2024 19:19:14.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> wacho veo tu brubuja de chta desde mi barco
+[20Dec2024 19:22:30.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> che
+[20Dec2024 19:22:34.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> no tenemos el mekanism generators?
+[20Dec2024 19:22:40.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> que
+[20Dec2024 19:22:41.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> nop
+[20Dec2024 19:22:50.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> como vamos a tener el mekanism sin el generators ;-;
+[20Dec2024 19:23:02.009] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 lost connection: Timed out
+[20Dec2024 19:23:02.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 left the game
+[20Dec2024 19:23:30.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> no lo podemos poner?
+[20Dec2024 19:23:41.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> no sirve para nada el mekanism sino
+[20Dec2024 19:23:57.690] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ecd63ea
+[20Dec2024 19:23:57.728] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: b3nja4[/100.122.166.3:53940] logged in with entity id 29927 at (5.633163220732049, 63.0, 336.1171260605045)
+[20Dec2024 19:23:57.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 joined the game
+[20Dec2024 19:23:57.826] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('b3nja4') Connected! Syncing Supporters to Client Side!
+[20Dec2024 19:23:57.827] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('b3nja4')...
+[20Dec2024 19:24:16.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> por mi si
+[20Dec2024 19:24:28.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> lo hacemos para la noche
+[20Dec2024 19:24:33.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> oka
+[20Dec2024 19:24:40.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> supongo que seguire a la noche entonces
+[20Dec2024 19:24:42.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> no tengo nada que hacer
+[20Dec2024 19:24:50.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> que paso
+[20Dec2024 19:25:05.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> Que no puedo iniciar en el mekanism porque no estan los generadores
+[20Dec2024 19:25:12.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> ahh
+[20Dec2024 19:25:24.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> pero thaigo habia arrancado sin los genardores
+[20Dec2024 19:25:39.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> tel lo usaba en pablocraft orgianl
+[20Dec2024 19:25:41.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> que otro mods de energia hay entonces?
+[20Dec2024 19:25:44.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> original
+[20Dec2024 19:26:04.849] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 moved too quickly! -9.603092928103045,2.024424088213692,-2.4135849827686684
+[20Dec2024 19:26:33.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> thiago usaba un generador de otro mod
+[20Dec2024 19:26:40.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> que era compatible de pedo
+[20Dec2024 19:26:43.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> Sisi se puede
+[20Dec2024 19:26:45.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> pero que mod es?
+[20Dec2024 19:26:49.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> va
+[20Dec2024 19:26:51.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> mejor dicho que generador
+[20Dec2024 19:27:01.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> ni idea
