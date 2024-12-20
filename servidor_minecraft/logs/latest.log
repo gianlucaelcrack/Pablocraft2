@@ -1204,3 +1204,18 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 17:35:45.695] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-212, y=65, z=-145}
 [20Dec2024 17:35:45.758] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-212, y=65, z=-144}
 [20Dec2024 17:35:57.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has reached the goal [Here They Come]
+[20Dec2024 17:37:38.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Easter Food]
+[20Dec2024 17:38:26.215] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@207cd0d4
+[20Dec2024 17:38:26.347] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: lucasgian[/100.119.138.58:57467] logged in with entity id 1627 at (-311.0591844320813, 66.0, -88.97990161006709)
+[20Dec2024 17:38:26.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian joined the game
+[20Dec2024 17:38:26.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Mysterious Gift]
+[20Dec2024 17:38:26.557] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('lucasgian') Connected! Syncing Supporters to Client Side!
+[20Dec2024 17:38:26.558] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('lucasgian')...
+[20Dec2024 17:38:43.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> ah ya entraste
+[20Dec2024 17:38:44.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> xd
+[20Dec2024 17:38:45.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian was slain by Zombie
+[20Dec2024 17:38:45.053] [Server thread/INFO] [tombstone/]: The player lucasgian has successfully been saved
+[20Dec2024 17:40:44.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> epa
+[20Dec2024 17:40:52.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> ola
+[20Dec2024 17:40:58.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> ahi estan mis cosas
+[20Dec2024 17:47:03.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Unfriendly Cube]
