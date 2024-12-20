@@ -1,0 +1,20 @@
+{
+	id: "a1c4a7f0-87b9-3c04-b79b-5b536e55378c"
+	type: "player"
+	player_name: "PM136"
+	ranks: {
+		a1c4a7f0-87b9-3c04-b79b-5b536e55378c: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "PM136"
+		"ftbteams:color": "#59A3FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
