@@ -1293,3 +1293,26 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 18:06:52.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> fua
 [20Dec2024 18:06:53.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> y de paso los auris y el micro para que suene todo god
 [20Dec2024 18:07:13.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> godines
+[20Dec2024 18:08:59.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Isn't It Iron Pick]
+[20Dec2024 18:09:33.457] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AlanGomezP lost connection: Disconnected
+[20Dec2024 18:09:33.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP left the game
+[20Dec2024 18:10:07.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> h
+[20Dec2024 18:13:42.098] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 moved too quickly! 7.1828740973534195,0.5047991229940791,7.0757349365957225
+[20Dec2024 18:13:47.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> zzz?
+[20Dec2024 18:15:20.729] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e6fad71
+[20Dec2024 18:15:20.778] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AlanGomezP[/100.77.9.80:63453] logged in with entity id 7701 at (-316.4197576870879, 78.0, -36.8938696371199)
+[20Dec2024 18:15:20.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP joined the game
+[20Dec2024 18:15:20.843] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('AlanGomezP') Connected! Syncing Supporters to Client Side!
+[20Dec2024 18:15:20.844] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('AlanGomezP')...
+[20Dec2024 18:15:24.206] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AlanGomezP lost connection: Disconnected
+[20Dec2024 18:15:24.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP left the game
+[20Dec2024 18:15:40.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> hola
+[20Dec2024 18:15:47.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> esta sera mi casa proviconal
+[20Dec2024 18:15:47.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> hola
+[20Dec2024 18:15:51.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> decido
+[20Dec2024 18:15:56.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> ahi va
+[20Dec2024 18:16:09.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> tenes comida?
+[20Dec2024 18:16:26.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> grax
+[20Dec2024 18:16:46.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> de nada
+[20Dec2024 18:16:49.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> tengo lag por las dudas
+[20Dec2024 18:16:54.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> oka

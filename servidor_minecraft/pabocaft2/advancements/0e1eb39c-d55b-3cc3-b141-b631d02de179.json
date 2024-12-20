@@ -1110,6 +1110,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-20 18:08:59 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass_pane_from_panes": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
@@ -5660,6 +5666,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/emendatusenigmatica/macerating/coal_dust": {
+    "criteria": {
+      "has_item": "2024-12-20 18:12:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
@@ -5729,6 +5741,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2024-12-20 18:05:20 +0000"
     },
     "done": true
   },
@@ -6449,6 +6467,12 @@
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2024-12-20 04:16:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-20 18:05:20 +0000"
     },
     "done": true
   },
@@ -10150,6 +10174,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2024-12-20 18:05:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
@@ -11420,6 +11450,12 @@
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/villager_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 18:05:20 +0000"
     },
     "done": true
   },

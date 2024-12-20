@@ -12354,6 +12354,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-20 17:37:38 +0000",
+      "beef": "2024-12-20 18:05:53 +0000",
+      "apple": "2024-12-20 18:04:44 +0000",
       "rotten_flesh": "2024-12-20 17:45:59 +0000"
     },
     "done": false
