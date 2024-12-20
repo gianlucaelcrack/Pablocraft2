@@ -1316,3 +1316,47 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 18:16:46.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> de nada
 [20Dec2024 18:16:49.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> tengo lag por las dudas
 [20Dec2024 18:16:54.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> oka
+[20Dec2024 18:18:19.623] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48af9bc2
+[20Dec2024 18:18:19.677] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AlanGomezP[/100.77.9.80:63576] logged in with entity id 7756 at (-316.4197576870879, 78.0, -36.8938696371199)
+[20Dec2024 18:18:19.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP joined the game
+[20Dec2024 18:18:19.756] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('AlanGomezP') Connected! Syncing Supporters to Client Side!
+[20Dec2024 18:18:19.756] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('AlanGomezP')...
+[20Dec2024 18:18:51.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> alan?
+[20Dec2024 18:18:56.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> ?
+[20Dec2024 18:19:08.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> ahi voy a tu casa
+[20Dec2024 18:19:13.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> para que me conozcas
+[20Dec2024 18:19:21.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> skjasjkajskas
+[20Dec2024 18:19:23.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> chicos
+[20Dec2024 18:19:30.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> proyecto barco...
+[20Dec2024 18:19:33.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> no puede ser
+[20Dec2024 18:19:39.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> es veigar
+[20Dec2024 18:19:39.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> jajajajaj
+[20Dec2024 18:19:52.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> kdalsdlasjkd
+[20Dec2024 18:20:32.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has reached the goal [Spectral Guardian]
+[20Dec2024 18:20:32.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> eh
+[20Dec2024 18:20:39.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> jajajaja
+[20Dec2024 18:20:39.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> nah bueno
+[20Dec2024 18:21:53.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> llevatelo anda a saber si me muerde
+[20Dec2024 18:21:58.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> jajaja
+[20Dec2024 18:22:00.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> una pinta de gil tiene
+[20Dec2024 18:22:02.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> castralo
+[20Dec2024 18:22:27.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> asjkasjkasjkasjak
+[20Dec2024 18:22:32.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> veni benja con el perro
+[20Dec2024 18:22:36.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> te saco una foto
+[20Dec2024 18:22:48.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> listo AJJAJA
+[20Dec2024 18:22:57.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> wtf
+[20Dec2024 18:23:00.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> se mrio
+[20Dec2024 18:23:05.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> noooo
+[20Dec2024 18:23:12.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> voy a asignarle mas memoria al juego ahi vengo
+[20Dec2024 18:23:18.405] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AlanGomezP lost connection: Disconnected
+[20Dec2024 18:23:18.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP left the game
+[20Dec2024 18:23:18.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> yo tengo para hacer uno
+[20Dec2024 18:24:20.862] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 moved too quickly! -6.282756767741262,0.0,8.025196554385069
+[20Dec2024 18:24:48.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 moved too quickly! -3.0131767550250856,0.0,9.595547036152709
+[20Dec2024 18:25:15.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> h
+[20Dec2024 18:25:25.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has reached the goal [Earthslime Island]
+[20Dec2024 18:26:06.740] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@120f967d
+[20Dec2024 18:26:06.842] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AlanGomezP[/100.77.9.80:63815] logged in with entity id 12491 at (-311.9295863298629, 76.0, -35.844790125900005)
+[20Dec2024 18:26:06.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP joined the game
+[20Dec2024 18:26:07.014] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('AlanGomezP') Connected! Syncing Supporters to Client Side!
+[20Dec2024 18:26:07.014] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('AlanGomezP')...

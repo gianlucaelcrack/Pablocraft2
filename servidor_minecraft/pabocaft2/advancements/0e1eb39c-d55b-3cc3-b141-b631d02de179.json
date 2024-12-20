@@ -4203,7 +4203,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 06:03:25 +0000",
-      "minecraft:spider": "2024-12-20 06:07:54 +0000"
+      "minecraft:spider": "2024-12-20 06:07:54 +0000",
+      "minecraft:zombie": "2024-12-20 18:14:05 +0000"
     },
     "done": false
   },
@@ -11101,6 +11102,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 18:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:57 +0000"
@@ -12672,6 +12679,12 @@
   "projecte:recipes/projecte/red_alchemical_bag": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sapling": {
+    "criteria": {
+      "has_item": "2024-12-20 18:14:39 +0000"
     },
     "done": true
   },
