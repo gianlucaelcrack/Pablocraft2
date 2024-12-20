@@ -1356,3 +1356,23 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 05:51:08.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> god
 [20Dec2024 05:51:49.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> ni idea
 [20Dec2024 05:51:55.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> como hiciste?
+[20Dec2024 05:57:34.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Monster Hunter]
+[20Dec2024 05:57:41.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> h
+[20Dec2024 05:57:42.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [A Strange Grave Dust]
+[20Dec2024 06:00:19.188] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Peony'/3227, l='ServerLevel[pabocaft2]', x=-380.47, y=63.33, z=-290.27]
+[20Dec2024 06:00:19.190] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Peony'/3228, l='ServerLevel[pabocaft2]', x=-379.46, y=63.37, z=-290.42]
+[20Dec2024 06:00:19.196] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Peony'/3237, l='ServerLevel[pabocaft2]', x=-379.62, y=63.65, z=-289.54]
+[20Dec2024 06:00:19.198] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Peony'/3238, l='ServerLevel[pabocaft2]', x=-380.53, y=63.37, z=-289.34]
+[20Dec2024 06:00:19.201] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Peony'/3260, l='ServerLevel[pabocaft2]', x=-380.64, y=63.73, z=-292.30]
+[20Dec2024 06:00:19.205] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/3261, l='ServerLevel[pabocaft2]', x=-381.41, y=63.46, z=-292.26]
+[20Dec2024 06:00:19.206] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/3262, l='ServerLevel[pabocaft2]', x=-381.30, y=63.43, z=-293.50]
+[20Dec2024 06:00:19.207] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Peony'/3264, l='ServerLevel[pabocaft2]', x=-379.48, y=63.66, z=-293.48]
+[20Dec2024 06:00:19.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Peony'/3272, l='ServerLevel[pabocaft2]', x=-380.28, y=63.32, z=-291.68]
+[20Dec2024 06:00:51.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 has made the advancement [Unfriendly Cube]
+[20Dec2024 06:01:42.924] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 lost connection: Timed out
+[20Dec2024 06:01:42.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 left the game
+[20Dec2024 06:02:13.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3b2c8d31
+[20Dec2024 06:02:13.646] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: b3nja4[/100.122.166.3:53186] logged in with entity id 3420 at (-440.43642700913966, 73.9375, -316.30000001192093)
+[20Dec2024 06:02:13.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 joined the game
+[20Dec2024 06:02:13.709] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('b3nja4') Connected! Syncing Supporters to Client Side!
+[20Dec2024 06:02:13.710] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('b3nja4')...

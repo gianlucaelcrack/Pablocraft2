@@ -2538,6 +2538,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/emendatusenigmatica/macerating/charcoal_dust": {
+    "criteria": {
+      "has_item": "2024-12-20 05:57:18 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/light_gray_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
@@ -3357,6 +3363,12 @@
   "create:recipes/create.palettes/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-20 05:50:51 +0000"
     },
     "done": true
   },
@@ -5089,6 +5101,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/coal": {
+    "criteria": {
+      "has_item": "2024-12-20 05:57:18 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2024-12-20 04:16:57 +0000"
@@ -5524,6 +5542,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/coal_block": {
+    "criteria": {
+      "has_item": "2024-12-20 05:57:59 +0000"
     },
     "done": true
   },
@@ -6778,6 +6802,12 @@
   "projecte:recipes/projecte/divining_rod_2": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:59 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:jellyfish_sting": {
+    "criteria": {
+      "jellyfish_sting": "2024-12-20 06:00:51 +0000"
     },
     "done": true
   },

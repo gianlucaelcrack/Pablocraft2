@@ -1890,6 +1890,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-20 05:57:42 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/reinforced_glass": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:57 +0000"
@@ -4229,6 +4235,13 @@
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-20 05:57:53 +0000",
+      "minecraft:zombie": "2024-12-20 05:57:34 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/world/common/slime/ender/slimeblock": {
     "criteria": {
@@ -6604,6 +6617,12 @@
   "create:recipes/create.palettes/fancy_limestone_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/emendatusenigmatica/separating/silicon_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-20 05:51:45 +0000"
     },
     "done": true
   },
@@ -11833,6 +11852,12 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-20 05:57:34 +0000"
     },
     "done": true
   },

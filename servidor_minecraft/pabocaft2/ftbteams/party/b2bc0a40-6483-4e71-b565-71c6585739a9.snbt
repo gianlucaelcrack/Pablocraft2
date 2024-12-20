@@ -11,7 +11,7 @@
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "lucasgian's Party"
-		"ftbteams:color": "#FFA959"
+		"ftbteams:color": "#FFCC59"
 		"ftbchunks:block_edit_mode": "allies"
 		"ftbchunks:block_interact_mode": "allies"
 		"ftbteams:description": ""
@@ -27,6 +27,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1734669722513L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"PM136\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1734669724411L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"patesihno\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
 		{ from: "20234be6-ef2b-3065-9828-ad78e4f9054d", date: 1734669729104L, text: "{\"text\":\"hola\"}" }
+		{ from: "20234be6-ef2b-3065-9828-ad78e4f9054d", date: 1734673868835L, text: "{\"text\":\"benja\"}" }
+		{ from: "20234be6-ef2b-3065-9828-ad78e4f9054d", date: 1734673884049L, text: "{\"text\":\"que es esto\"}" }
 	]
 	extra: { }
 }
