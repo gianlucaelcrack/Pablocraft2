@@ -1404,3 +1404,211 @@ java.lang.IllegalStateException: Tag minecraft:saplings used before it was bound
 [20Dec2024 18:46:29.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlanGomezP has made the advancement [Isn't It Iron Pick]
 [20Dec2024 18:48:01.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> wacho me queda re grande el barci
 [20Dec2024 18:48:12.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> sjkasjkasjkas
+[20Dec2024 18:48:17.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> h
+[20Dec2024 18:48:27.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> NO LO PUEDO USAR
+[20Dec2024 18:48:32.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> NAAAAA
+[20Dec2024 18:48:39.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> JAJJAJJAJAJAjaJ
+[20Dec2024 18:48:39.793] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-296, y=61, z=-66} BlockPos{x=-296, y=62, z=-66}
+[20Dec2024 18:48:42.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> XDDD
+[20Dec2024 18:48:45.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> estan para ds?
+[20Dec2024 18:48:46.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> si quiern
+[20Dec2024 18:48:50.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> estoy
+[20Dec2024 18:48:54.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> toy cargabndo el celu
+[20Dec2024 18:48:57.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> oka
+[20Dec2024 18:48:59.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> a la noche estoy
+[20Dec2024 18:49:05.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> ahora siii
+[20Dec2024 18:49:40.548] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 5.0181849527149325,0.0,8.922050811231692
+[20Dec2024 18:49:40.549] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 5.211666939421946,0.0,9.266050909419398
+[20Dec2024 18:49:46.649] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -5.659006845990035,0.0,-10.061396121662607
+[20Dec2024 18:49:46.650] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -5.659006845990035,0.0,-10.061396121662607
+[20Dec2024 18:49:46.650] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -5.4630528276923656,0.0,-9.7130310129385
+[20Dec2024 18:49:46.711] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -5.267085157620556,0.0,-9.364668742554127
+[20Dec2024 18:49:46.711] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -5.071105200952331,0.0,-9.016309026675449
+[20Dec2024 18:49:57.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> diooos porque carajo hay deepslate aca en esta version
+[20Dec2024 18:49:58.081] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 8.372714206178557,0.0,5.5404322725446065
+[20Dec2024 18:49:58.082] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 8.684784720761257,0.0,5.785705017536749
+[20Dec2024 18:49:58.082] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 8.9962548672396,0.0,6.032156764067423
+[20Dec2024 18:49:58.088] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 9.307145140344431,0.0,6.279716591590621
+[20Dec2024 18:49:58.089] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 9.617513527426922,0.0,6.528273691980672
+[20Dec2024 18:49:58.089] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 9.927372604227372,0.0,6.777775256095779
+[20Dec2024 18:49:58.090] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 10.236773301786144,0.0,7.028126837540917
+[20Dec2024 18:49:58.090] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 10.545721774383395,0.0,7.279290293126834
+[20Dec2024 18:49:58.091] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 10.854263244526095,0.0,7.531184435420101
+[20Dec2024 18:49:58.621] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 7.896770630097592,0.0,6.75314960559006
+[20Dec2024 18:49:58.621] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 8.200138522998316,0.0,7.0133738397029575
+[20Dec2024 18:49:58.622] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 8.503498014221236,0.0,7.273609509488239
+[20Dec2024 18:49:58.622] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 8.806849943934338,0.0,7.533855471378388
+[20Dec2024 18:49:58.638] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 9.110195068288789,0.0,7.794110696162676
+[20Dec2024 18:49:58.672] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 7.886253983639818,0.0,6.76761482772158
+[20Dec2024 18:49:58.672] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 8.189543891324746,0.0,7.027945208892227
+[20Dec2024 18:49:58.673] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 8.492833195855297,0.0,7.288276411026949
+[20Dec2024 18:49:58.673] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 8.796121957546944,0.0,7.548608352029319
+[20Dec2024 18:50:01.693] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -27.119824776976202,0.0,-22.967696424257852
+[20Dec2024 18:50:01.693] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -27.119824776976202,0.0,-22.967696424257852
+[20Dec2024 18:50:01.694] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -27.119824776976202,0.0,-22.967696424257852
+[20Dec2024 18:50:01.694] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -27.119824776976202,0.0,-22.967696424257852
+[20Dec2024 18:50:01.695] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -27.119824776976202,0.0,-22.967696424257852
+[20Dec2024 18:50:01.695] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -27.119824776976202,0.0,-22.967696424257852
+[20Dec2024 18:50:01.696] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -27.119824776976202,0.0,-22.967696424257852
+[20Dec2024 18:50:01.696] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -27.119824776976202,0.0,-22.967696424257852
+[20Dec2024 18:50:01.697] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -27.119824776976202,0.0,-22.967696424257852
+[20Dec2024 18:50:01.697] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -26.816183259374355,0.0,-22.707780215377852
+[20Dec2024 18:50:01.698] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -26.51222034558222,0.0,-22.44824349537101
+[20Dec2024 18:50:01.698] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -26.207968175226483,0.0,-22.189048315340962
+[20Dec2024 18:50:01.699] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -25.903455673970427,0.0,-21.930160521281884
+[20Dec2024 18:50:01.699] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -25.598708874910272,0.0,-21.671549374589354
+[20Dec2024 18:50:01.700] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -25.293751207832003,0.0,-21.41318721052012
+[20Dec2024 18:50:01.701] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -24.988603759542485,0.0,-21.15504913080592
+[20Dec2024 18:50:01.701] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -24.68328550816733,0.0,-20.897112727005904
+[20Dec2024 18:50:01.702] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -24.377813534019197,0.0,-20.639357831523846
+[20Dec2024 18:50:01.702] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -24.07220320937907,0.0,-20.38176629352362
+[20Dec2024 18:50:01.703] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -23.766468369299417,0.0,-20.12432177725315
+[20Dec2024 18:50:01.704] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -23.460621465327165,0.0,-19.867009580535957
+[20Dec2024 18:50:01.704] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -23.154673703854257,0.0,-19.609816471413552
+[20Dec2024 18:50:01.705] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -22.879320725822993,0.0,-19.378342679335354
+[20Dec2024 18:50:01.706] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -22.631503052159786,0.0,-19.17001627198374
+[20Dec2024 18:50:01.706] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -22.408467151771333,0.0,-18.982522510334178
+[20Dec2024 18:50:01.707] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -22.207734846739328,0.0,-18.813778129319772
+[20Dec2024 18:50:01.707] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -22.027075776996355,0.0,-18.661908190429983
+[20Dec2024 18:50:01.708] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -21.864482618534907,0.0,-18.525225249050038
+[20Dec2024 18:50:01.723] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -15.165122515331007,0.0,-13.015665459310952
+[20Dec2024 18:50:01.724] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -15.165122515331007,0.0,-13.015665459310952
+[20Dec2024 18:50:01.724] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -15.165122515331007,0.0,-13.015665459310952
+[20Dec2024 18:50:01.724] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -15.165122515331007,0.0,-13.015665459310952
+[20Dec2024 18:50:01.724] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -15.165122515331007,0.0,-13.015665459310952
+[20Dec2024 18:50:58.832] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 7.610928962435054,0.0,6.533214182142501
+[20Dec2024 18:50:58.832] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 7.790014964428707,0.0,6.6869414359143775
+[20Dec2024 18:50:58.833] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 7.951192361953247,0.0,6.825295960643928
+[20Dec2024 18:51:07.201] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.8766589185939324,0.0,10.187241957546746
+[20Dec2024 18:51:07.201] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.8979456926234377,0.0,10.581062754953308
+[20Dec2024 18:51:07.202] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.9180854380099674,0.0,10.975489414746875
+[20Dec2024 18:51:07.202] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.937131515559912,0.0,11.37046281098813
+[20Dec2024 18:51:07.203] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.9551319480769109,0.0,11.765929633475508
+[20Dec2024 18:51:07.203] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.9721299541040338,0.0,12.161841809896629
+[20Dec2024 18:51:07.206] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.9882257763141666,0.0,12.558154804847504
+[20Dec2024 18:51:07.207] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.0034482850880835,0.0,12.954829713657318
+[20Dec2024 18:51:07.207] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.0178848117902248,0.0,13.351830344931585
+[20Dec2024 18:51:07.208] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.03155260511069,0.0,13.74912521047554
+[20Dec2024 18:51:07.209] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.0445285384059702,0.0,14.146684886855212
+[20Dec2024 18:51:07.209] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.0568204464130275,0.0,14.54448388018264
+[20Dec2024 18:51:07.210] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.068496731676987,0.0,14.942498258757325
+[20Dec2024 18:51:07.210] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.07961895648684,0.0,15.340706484049434
+[20Dec2024 18:51:07.210] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.090181174163959,0.0,15.739090065452245
+[20Dec2024 18:51:07.213] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.1002393854349748,0.0,16.13763146735053
+[20Dec2024 18:51:07.214] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.1098439909524984,0.0,16.53631490769098
+[20Dec2024 18:51:07.214] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.1190403513027007,0.0,16.935126182625993
+[20Dec2024 18:51:07.214] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.1278079369942446,0.0,17.334053309630463
+[20Dec2024 18:51:07.216] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -1.1361896255032065,0.0,17.733084703494683
+[20Dec2024 18:51:09.374] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.12638794480143645,0.0,10.396298255487096
+[20Dec2024 18:51:09.375] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.13078465886192703,0.0,10.796253682353466
+[20Dec2024 18:51:09.376] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.13517120782518077,0.0,11.196211250148735
+[20Dec2024 18:51:09.376] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.1395486082011672,0.0,11.596170744779982
+[20Dec2024 18:51:09.377] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.1439177748488305,0.0,11.996131973563564
+[20Dec2024 18:51:09.377] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.14827953114119907,0.0,12.396094763084221
+[20Dec2024 18:51:09.377] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.1526346181139786,0.0,12.796058957268173
+[20Dec2024 18:51:09.378] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.15698370269927864,0.0,13.196024415649077
+[20Dec2024 18:51:09.378] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.16132738513600486,0.0,13.5959910118072
+[20Dec2024 18:51:09.379] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.16566620563912693,0.0,13.995958631964811
+[20Dec2024 18:51:09.385] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.1700006504021303,0.0,14.39592717372193
+[20Dec2024 18:51:09.385] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.1743311569991306,0.0,14.795896544918577
+[20Dec2024 18:51:09.386] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.17865811924681907,0.0,15.195866662610769
+[20Dec2024 18:51:09.386] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.18298189158022637,0.0,15.59583745214897
+[20Dec2024 18:51:09.387] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.18730279299083463,0.0,15.995808846348524
+[20Dec2024 18:51:09.387] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.19119160415736758,0.0,16.35578309159206
+[20Dec2024 18:51:09.387] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.19469153411452567,0.0,16.67975990372878
+[20Dec2024 18:51:09.387] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! -0.1978414709925289,0.0,16.971339026927637
+[20Dec2024 18:51:10.218] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.221] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.221] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.221] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46677387042282703,0.0,-21.52989821665014
+[20Dec2024 18:51:10.221] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.46422242168682715,0.0,-21.293719139372286
+[20Dec2024 18:51:10.221] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4619261178852554,0.0,-21.08115797545318
+[20Dec2024 18:51:10.223] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4598594445185853,0.0,-20.88985293299382
+[20Dec2024 18:51:10.224] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4579994385378541,0.0,-20.71767839934148
+[20Dec2024 18:51:10.224] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4563254331995523,0.0,-20.562721323159337
+[20Dec2024 18:51:10.225] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.45481882843499477,0.0,-20.42325995828986
+[20Dec2024 18:51:10.225] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.45346288418281233,0.0,-20.29774473323235
+[20Dec2024 18:51:10.225] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4522425343881764,0.0,-20.18478103367312
+[20Dec2024 18:51:10.474] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5298406975215784,0.0,-27.320528730187164
+[20Dec2024 18:51:10.475] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5288522142402883,0.0,-27.229028138392067
+[20Dec2024 18:51:10.475] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5279625793106959,0.0,-27.146677607958026
+[20Dec2024 18:51:10.476] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5271619078952767,0.0,-27.072562132530777
+[20Dec2024 18:51:10.477] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5252756433094561,0.0,-26.96587519463114
+[20Dec2024 18:51:10.477] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5224123448961677,0.0,-26.829873941282898
+[20Dec2024 18:51:10.477] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5186697160614528,0.0,-26.667489804729826
+[20Dec2024 18:51:10.478] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5141356898684109,0.0,-26.48136107392145
+[20Dec2024 18:51:10.478] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.508889406071745,0.0,-26.27386220884938
+[20Dec2024 18:51:10.479] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5041677507798283,0.0,-26.08711323523167
+[20Dec2024 18:51:10.480] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.49991826112967885,0.0,-25.91903916342818
+[20Dec2024 18:51:10.480] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.49609372054585776,0.0,-25.76777250281225
+[20Dec2024 18:51:10.481] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.49265163411160984,0.0,-25.63163251186438
+[20Dec2024 18:51:10.481] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4895537564028416,0.0,-25.509106523257145
+[20Dec2024 18:51:10.482] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.48676566653881537,0.0,-25.398833136431875
+[20Dec2024 18:51:10.483] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4842563857276616,0.0,-25.299587090918237
+[20Dec2024 18:51:10.483] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4819980330574509,0.0,-25.210265652322192
+[20Dec2024 18:51:10.484] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.479965515708102,0.0,-25.129876359715325
+[20Dec2024 18:51:10.485] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.47813625014214267,0.0,-25.05752599828577
+[20Dec2024 18:51:10.486] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.47648991117640094,0.0,-24.99241067472414
+[20Dec2024 18:51:10.488] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.47500820614648376,0.0,-24.933806885071164
+[20Dec2024 18:51:10.488] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.47367467165489074,0.0,-24.881063475780707
+[20Dec2024 18:51:10.489] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4724744906442453,0.0,-24.833594408676788
+[20Dec2024 18:51:10.490] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.47139432776327794,0.0,-24.790872249415003
+[20Dec2024 18:51:10.491] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4699313196005477,0.0,-24.712425318026618
+[20Dec2024 18:51:10.492] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.469412229479957,0.0,-24.601832306360222
+[20Dec2024 18:51:10.493] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.47158158231283664,0.0,-24.462389679013796
+[20Dec2024 18:51:10.493] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.47788189741109477,0.0,-24.29713503828785
+[20Dec2024 18:51:10.494] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.4894213994632679,0.0,-24.10884785726128
+[20Dec2024 18:51:10.494] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.507068215173021,0.0,-23.900065182281878
+[20Dec2024 18:51:10.495] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5314148017016578,0.0,-23.67307965705197
+[20Dec2024 18:51:10.495] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.5628672719571313,0.0,-23.429961805955827
+[20Dec2024 18:51:10.496] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.6016654828183761,0.0,-23.172572154185303
+[20Dec2024 18:51:10.496] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.6479601724951465,0.0,-22.902590833084645
+[20Dec2024 18:51:10.498] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.7017641099083107,0.0,-22.62151265312488
+[20Dec2024 18:51:10.498] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.7630258604139613,0.0,-22.330678261004437
+[20Dec2024 18:51:10.499] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.8316370285192392,0.0,-22.03128627032396
+[20Dec2024 18:51:10.499] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of b3nja4) moved too quickly! 0.9074387884336232,0.0,-21.724404458590243
+[20Dec2024 18:51:35.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [First Age]
+[20Dec2024 18:52:23.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> [name:"Tierra Firme", x:-103, y:63, z:223, dim:minecraft:overworld]
+[20Dec2024 18:53:01.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> Terminaste la escuela, estas jugando minecraft en vacaciones con lofi de fondo, la vida es buena
+[20Dec2024 18:53:07.802] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 moved too quickly! -3.6463299628741908,1.5037048098756003,9.335918580527505
+[20Dec2024 18:53:13.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> y el perro este de benja ahora es mi mascota
+[20Dec2024 18:53:15.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> es esa
+[20Dec2024 18:53:32.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> parece que esta todo bien
+[20Dec2024 18:53:32.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> h
+[20Dec2024 18:53:41.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <b3nja4> casi la quedo
+[20Dec2024 18:53:49.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> pero despues vien las deudas
+[20Dec2024 18:54:02.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> no conseguimos laburo de verano
+[20Dec2024 18:54:14.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> y la depresion te mata lentamente
+[20Dec2024 18:54:18.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> Claro
+[20Dec2024 18:54:21.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> se ponia mal el loco
+[20Dec2024 18:54:21.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> PERO
+[20Dec2024 18:54:31.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> no puedo tener deudas si no tengo ni credito para comprar cosas en primer lugar
+[20Dec2024 18:54:41.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> mal
+[20Dec2024 18:54:42.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlanGomezP> asi que podre estar en 0 pero nunca en rojo
+[20Dec2024 18:54:45.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lucasgian> punto a favor
+[20Dec2024 18:56:49.708] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: b3nja4 lost connection: Timed out
+[20Dec2024 18:56:49.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 left the game
+[20Dec2024 18:57:30.426] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@663011c6
+[20Dec2024 18:57:30.467] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: b3nja4[/100.122.166.3:53881] logged in with entity id 26011 at (-88.14612744862532, 52.0, 307.4924279105951)
+[20Dec2024 18:57:30.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b3nja4 joined the game
+[20Dec2024 18:57:30.537] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('b3nja4') Connected! Syncing Supporters to Client Side!
+[20Dec2024 18:57:30.538] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('b3nja4')...
+[20Dec2024 18:57:49.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian was shot by Skeleton
+[20Dec2024 18:57:49.228] [Server thread/INFO] [tombstone/]: The player lucasgian has successfully been saved
+[20Dec2024 18:58:21.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lucasgian has made the advancement [Ashes 'n Bones]

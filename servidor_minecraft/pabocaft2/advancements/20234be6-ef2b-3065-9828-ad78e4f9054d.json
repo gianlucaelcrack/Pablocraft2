@@ -1476,6 +1476,12 @@
     },
     "done": true
   },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-12-20 18:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
@@ -9831,6 +9837,12 @@
   "projecte:recipes/projecte/transmutation_table": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:58 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-20 18:51:35 +0000"
     },
     "done": true
   },

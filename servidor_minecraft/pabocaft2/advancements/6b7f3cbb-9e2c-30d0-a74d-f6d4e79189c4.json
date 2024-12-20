@@ -516,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-20 18:46:29 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/neutron_reflector": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:57 +0000"
@@ -1101,6 +1107,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/ender/congealed": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-20 18:46:29 +0000"
     },
     "done": true
   },
@@ -3363,6 +3375,12 @@
   "create:recipes/create.palettes/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-20 18:45:29 +0000"
     },
     "done": true
   },
@@ -6425,6 +6443,12 @@
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2024-12-20 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-20 18:45:29 +0000"
     },
     "done": true
   },
@@ -12398,6 +12422,7 @@
       "cooked_beef": "2024-12-20 17:37:38 +0000",
       "beef": "2024-12-20 18:05:53 +0000",
       "apple": "2024-12-20 18:04:44 +0000",
+      "golden_apple": "2024-12-20 18:45:49 +0000",
       "rotten_flesh": "2024-12-20 17:45:59 +0000"
     },
     "done": false
