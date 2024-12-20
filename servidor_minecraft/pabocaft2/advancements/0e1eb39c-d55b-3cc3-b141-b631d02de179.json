@@ -9465,6 +9465,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-20 04:43:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/orange_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
@@ -11754,7 +11760,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2024-12-20 04:37:21 +0000"
+      "minecraft:cold_ocean": "2024-12-20 04:46:48 +0000",
+      "minecraft:beach": "2024-12-20 04:37:21 +0000",
+      "minecraft:river": "2024-12-20 04:44:28 +0000"
     },
     "done": false
   },
@@ -12354,7 +12362,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-12-20 04:23:24 +0000"
+      "apple": "2024-12-20 04:23:24 +0000",
+      "bread": "2024-12-20 04:56:26 +0000",
+      "dried_kelp": "2024-12-20 04:49:41 +0000"
     },
     "done": false
   },
@@ -13249,6 +13259,12 @@
   "create:recipes/create.palettes/gabbro_bricks_slab_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sugar_cane": {
+    "criteria": {
+      "has_item": "2024-12-20 04:46:23 +0000"
     },
     "done": true
   },

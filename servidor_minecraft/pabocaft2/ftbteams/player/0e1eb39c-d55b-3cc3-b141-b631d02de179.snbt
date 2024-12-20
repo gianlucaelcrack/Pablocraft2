@@ -2,9 +2,7 @@
 	id: "0e1eb39c-d55b-3cc3-b141-b631d02de179"
 	type: "player"
 	player_name: "b3nja4"
-	ranks: {
-		0e1eb39c-d55b-3cc3-b141-b631d02de179: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "b3nja4"

@@ -1,0 +1,32 @@
+{
+	id: "b2bc0a40-6483-4e71-b565-71c6585739a9"
+	type: "party"
+	owner: "20234be6-ef2b-3065-9828-ad78e4f9054d"
+	ranks: {
+		a1c4a7f0-87b9-3c04-b79b-5b536e55378c: "member"
+		a10b7340-3834-3e83-a1d1-954426c872af: "member"
+		0e1eb39c-d55b-3cc3-b141-b631d02de179: "member"
+		20234be6-ef2b-3065-9828-ad78e4f9054d: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "lucasgian's Party"
+		"ftbteams:color": "#FFA959"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734669717186L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"lucasgian\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "20234be6-ef2b-3065-9828-ad78e4f9054d", date: 1734669717204L, text: "{\"color\":\"green\",\"text\":\"Invited patesihno\"}" }
+		{ from: "20234be6-ef2b-3065-9828-ad78e4f9054d", date: 1734669717204L, text: "{\"color\":\"green\",\"text\":\"Invited PM136\"}" }
+		{ from: "20234be6-ef2b-3065-9828-ad78e4f9054d", date: 1734669717204L, text: "{\"color\":\"green\",\"text\":\"Invited b3nja4\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734669720782L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"b3nja4\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734669722513L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"PM136\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734669724411L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"patesihno\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "20234be6-ef2b-3065-9828-ad78e4f9054d", date: 1734669729104L, text: "{\"text\":\"hola\"}" }
+	]
+	extra: { }
+}

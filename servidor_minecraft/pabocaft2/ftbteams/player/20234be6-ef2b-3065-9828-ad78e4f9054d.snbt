@@ -2,9 +2,7 @@
 	id: "20234be6-ef2b-3065-9828-ad78e4f9054d"
 	type: "player"
 	player_name: "lucasgian"
-	ranks: {
-		20234be6-ef2b-3065-9828-ad78e4f9054d: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "lucasgian"

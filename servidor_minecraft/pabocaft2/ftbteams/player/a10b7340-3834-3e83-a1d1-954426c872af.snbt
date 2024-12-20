@@ -2,9 +2,7 @@
 	id: "a10b7340-3834-3e83-a1d1-954426c872af"
 	type: "player"
 	player_name: "patesihno"
-	ranks: {
-		a10b7340-3834-3e83-a1d1-954426c872af: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "patesihno"

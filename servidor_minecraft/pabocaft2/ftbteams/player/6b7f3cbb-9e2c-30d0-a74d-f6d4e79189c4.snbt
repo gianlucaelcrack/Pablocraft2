@@ -1,0 +1,20 @@
+{
+	id: "6b7f3cbb-9e2c-30d0-a74d-f6d4e79189c4"
+	type: "player"
+	player_name: "AlanGomezP"
+	ranks: {
+		6b7f3cbb-9e2c-30d0-a74d-f6d4e79189c4: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "AlanGomezP"
+		"ftbteams:color": "#FF6359"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
