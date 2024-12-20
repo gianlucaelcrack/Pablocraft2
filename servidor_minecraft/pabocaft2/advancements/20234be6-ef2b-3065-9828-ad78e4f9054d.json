@@ -4258,6 +4258,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-20 06:06:37 +0000",
       "minecraft:spider": "2024-12-20 05:57:53 +0000",
+      "minecraft:witch": "2024-12-20 18:33:01 +0000",
       "minecraft:zombie": "2024-12-20 05:57:34 +0000"
     },
     "done": false
@@ -8786,6 +8787,12 @@
   "create:recipes/create.palettes/polished_dark_scoria": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 18:33:01 +0000"
     },
     "done": true
   },
@@ -13993,6 +14000,12 @@
   "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/earth": {
     "criteria": {
       "has_the_recipe": "2024-12-19 17:32:59 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/emendatusenigmatica/separating/sulfur_from_gunpowder": {
+    "criteria": {
+      "has_item": "2024-12-20 18:33:02 +0000"
     },
     "done": true
   },
