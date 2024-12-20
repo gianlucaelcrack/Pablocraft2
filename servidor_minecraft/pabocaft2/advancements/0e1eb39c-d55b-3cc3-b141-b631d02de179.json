@@ -3930,6 +3930,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/emendatusenigmatica/macerating/obsidian_dust": {
+    "criteria": {
+      "has_item": "2024-12-20 05:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:58 +0000"
@@ -7201,6 +7207,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2024-12-20 05:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:16:57 +0000"
@@ -9852,6 +9864,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/stick": {
     "criteria": {
       "has_item": "2024-12-20 04:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-20 05:47:26 +0000"
     },
     "done": true
   },
